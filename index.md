@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Welcome to LuoRong's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/LuoRongLuoRong/luorong.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Luo Rong (罗蓉)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a master student of the [School of Computer Science](https://cs.fudan.edu.cn/) at [Software Engineering Laboratory ](http://www.se.fudan.edu.cn/) in [Fudan University](https://www.fudan.edu.cn/), majoring in computer software and theory. I am a member of intelligent software development group. I am interested in code big data and intelligent software development. My advisor is [Prof.Zhao Wenyun](https://datascience.fudan.edu.cn/59/27/c13398a153895/page.htm)  and supervised by [Prof.Xin Peng](https://cspengxin.github.io/).
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Articles
 
-```markdown
-Syntax highlighted code block
+To appear...
 
-# Header 1
-## Header 2
-### Header 3
+### Projects
 
-- Bulleted
-- List
+To appear...
 
-1. Numbered
-2. List
+### Education
 
-**Bold** and _Italic_ and `Code` text
+Education
+Fudan University, Shanghai, Master — Sept., 2021- Jun., 2024(Expected)
+Computer Software and Theory, School of Computer Science
 
-[Link](url) and ![Image](src)
-```
+Fudan University, Shanghai, Bachelor — Sept., 2017- Jul., 2021
+Software Engineering, School of Software
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Awards
 
-### Jekyll Themes
+- 2017 Scholarship of Academic Excellence, Fudan University
+- 2018 Scholarship of Academic Excellence, Fudan University
+- 2019 Scholarship of Academic Excellence, Fudan University
+- 2020 Scholarship of Academic Excellence, Fudan University
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LuoRongLuoRong/luorong.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contact Me
+- Office: D2008, No.2 Interdisciplinary Research Building, Fenglin Campus, Fudan University
+- Address: 2005 Songhu Road, Yangpu District, Shanghai, China
+- Email: rluo21@m.fudan.edu.cn

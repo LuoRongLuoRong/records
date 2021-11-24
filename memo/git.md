@@ -11,8 +11,5 @@
 - chore：对构建流程或辅助工具和依赖库（如文档生成等）的更改
 
 
-
-
-CREATED on 23th November, 2021
-
-LAST UPDATED on 23th November, 2021
+> CREATED on 23th November, 2021
+> UPDATED on 23th November, 2021

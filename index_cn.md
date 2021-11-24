@@ -17,9 +17,6 @@
 
 2021 年 9 月至 2024 年 6 月（预计），复旦大学计算机科学技术学院理学硕士，计算机软件与理论
 
-Fudan University, Shanghai, Bachelor — Sept., 2017- Jul., 2021
-Software Engineering, School of Software
-
 2017 年 9 月至 2021 年 6 月，复旦大学软件学院工学学士，软件工程
 
 ### 荣誉

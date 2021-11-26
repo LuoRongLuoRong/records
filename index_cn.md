@@ -2,7 +2,7 @@
 
 ### 罗蓉 ([Luo Rong](https://luorongluorong.github.io/blogs/))
 
-我是来自[复旦大学](https://www.fudan.edu.cn/)[计算机科学技术学院](https://cs.fudan.edu.cn/)[软件工程实验室](http://www.se.fudan.edu.cn/)的一名硕士研究生，是智能化软件开发组的一员。我的专业是计算机软件与理论，研究方向是代码发数据与智能化软件开发。我的导师是[赵文耘](https://datascience.fudan.edu.cn/59/27/c13398a153895/page.htm)老师，指导教师是[彭鑫](https://cspengxin.github.io/)老师。
+我是来自[复旦大学](https://www.fudan.edu.cn/)[计算机科学技术学院](https://cs.fudan.edu.cn/)[软件工程实验室](http://www.se.fudan.edu.cn/)的一名硕士研究生，是智能化软件开发组的一员。我的专业是计算机软件与理论，研究方向是代码大数据与智能化软件开发。我的导师是[赵文耘](https://datascience.fudan.edu.cn/59/27/c13398a153895/page.htm)老师，指导教师是[彭鑫](https://cspengxin.github.io/)老师。
 
 
 ### 博客

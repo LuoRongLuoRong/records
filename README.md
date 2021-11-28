@@ -9,11 +9,17 @@ I am a Master Student. Recently I am interested in software analysis due to my c
 #### Expected contents are as follows:
 
 - Algorithm and Mathematics: programming fundamental
+
 - Programming Handbook: utilitarian records 
+
 - Understanding Computer: the academic theory and physical construction of computer
+
 - Conceptions and Reflections: thoughts about study and work, life and death
+
 - Papers: basic reading of a master student
+
 - Technology: basic technology that a programmer has to know
+
 - Courses: 
   - Data Mining (Fall, 2021): instructed by [Prof.Yun Xiong](https://datascience.fudan.edu.cn/e1/61/c13398a123233/page.htm)
     - [Association Analysis](https://luorongluorong.github.io/blogs/courses/data_mining/association_analysis)
@@ -21,11 +27,22 @@ I am a Master Student. Recently I am interested in software analysis due to my c
       - [FP-Growth Algorithm](https://luorongluorong.github.io/blogs/courses/data_mining/fg_growth_algorithm)
   - Knowledge Graph (Fall, 2021): instructed by [Prof.Yanghua Xiao](https://cs.fudan.edu.cn/3e/dc/c25921a278236/page.htm)
   - Advanced Software Engineering (Fall, 2021): micro-services, instructed by [Prof.Xin Peng](https://cspengxin.github.io/)
+
 - Literature and History: personal interest
+
 - English: personal interest
+
 - Certificates: personal interest
+
 - Repeats: speeches of outstanding people 
+
 - Others: anything else, including gossips, jests and daily life etc.
+
+  - [Work Reports](/others/work_reports)
+
+    ​
+
+
 
 
 

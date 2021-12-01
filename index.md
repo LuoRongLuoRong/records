@@ -10,6 +10,9 @@ Expected contents are as follows:
 
 - Algorithm and Mathematics: programming fundamental
 - Programming Handbook: utilitarian records 
+  - [Command](https://luorongluorong.github.io/blogs/programming_handbook/command)
+  - [Git](https://luorongluorong.github.io/blogs/programming_handbook/git)
+
 - Understanding Computer: the academic theory and physical construction of computer
 - Conceptions and Reflections: thoughts about study and work, life and death
 - Papers: basic reading of a master student
@@ -23,10 +26,12 @@ Expected contents are as follows:
   - Advanced Software Engineering (Fall, 2021): micro-services, instructed by [Prof.Xin Peng](https://cspengxin.github.io/)
 - Literature and History: personal interest
 - English: personal interest
+  - [Monthly Abbreviation](https://luorongluorong.github.io/blogs/english/month_abbreviation) *only_cn*
 - Certificates: personal interest
 - Repeats: speeches of outstanding people 
 - Others: anything else, including gossips, jests and daily life etc.
-  - [Work Reports](/others/work_reports)
+  - [Work Reports](https://luorongluorong.github.io/blogs/others/work_reports) *only_cn*
+  - [Prt Sc Key](https://luorongluorong.github.io/blogs/others/prt_sc_key_cn) *only_cn*
 
 ### Projects
 
@@ -54,5 +59,8 @@ Software Engineering, School of Software
 
 
 
-> CREATED on 23th November, 2021
-> LAST UPDATED on 23th November, 2021
+> CREATED on 23rd November, 2021
+
+
+
+> UPDATED on 1st December, 2021

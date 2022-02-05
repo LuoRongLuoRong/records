@@ -50,11 +50,7 @@ Software Engineering, School of Software
 
 ### Awards
 
-- 2017 Scholarship of Academic Excellence, Fudan University
-- 2018 Scholarship of Academic Excellence, Fudan University
-- 2019 Scholarship of Academic Excellence, Fudan University
-- 2020 Scholarship of Academic Excellence, Fudan University
-- 2021 Scholarship of Academic Excellence, Fudan University
+- Scholarship of Academic Excellence, Fudan University [2017-2021]
 
 ### Contact Me
 - Office: D2008, No.2 Interdisciplinary Research Building, Fenglin Campus, Fudan University

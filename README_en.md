@@ -22,9 +22,9 @@ I am a Master Student. Recently I am interested in software analysis due to my c
 
 - Courses: 
   - Data Mining (Fall, 2021): instructed by [Prof.Yun Xiong](https://datascience.fudan.edu.cn/e1/61/c13398a123233/page.htm)
-    - [Association Analysis](https://luorongluorong.github.io/blogs/courses/data_mining/association_analysis_zh)
-      - [Apriori Algorithm](https://luorongluorong.github.io/blogs/courses/data_mining/apriori_algorithm_zh)
-      - [FP-Growth Algorithm](https://luorongluorong.github.io/blogs/courses/data_mining/fg_growth_algorithm_zh)
+    - [Association Analysis](https://luorongluorong.github.io/records/courses/data_mining/association_analysis_zh)
+      - [Apriori Algorithm](https://luorongluorong.github.io/records/courses/data_mining/apriori_algorithm_zh)
+      - [FP-Growth Algorithm](https://luorongluorong.github.io/records/courses/data_mining/fg_growth_algorithm_zh)
   - Knowledge Graph (Fall, 2021): instructed by [Prof.Yanghua Xiao](https://cs.fudan.edu.cn/3e/dc/c25921a278236/page.htm)
   - Advanced Software Engineering (Fall, 2021): micro-services, instructed by [Prof.Xin Peng](https://cspengxin.github.io/)
 

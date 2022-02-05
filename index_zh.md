@@ -1,6 +1,6 @@
 # 罗蓉的博客
 
-### 罗蓉 ([Luo Rong](https://luorongluorong.github.io/blogs/))
+### 罗蓉 ([Luo Rong](https://luorongluorong.github.io/records/))
 
 我是来自[复旦大学](https://www.fudan.edu.cn/)[计算机科学技术学院](https://cs.fudan.edu.cn/)[软件工程实验室](http://www.se.fudan.edu.cn/)的一名硕士研究生，是智能化软件开发组的一员。我的专业是计算机软件与理论，研究方向是代码大数据与智能化软件开发。我的导师是[赵文耘](https://datascience.fudan.edu.cn/59/27/c13398a153895/page.htm)老师，指导教师是[彭鑫](https://cspengxin.github.io/)老师。
 
@@ -33,10 +33,7 @@
 
 ### 荣誉
 
-- 复旦大学 2017 年学业奖学金
-- 复旦大学 2018 年学业奖学金
-- 复旦大学 2019 年学业奖学金
-- 复旦大学 2020 年学业奖学金
+- 复旦大学 2017 - 2021 年学业奖学金
 
 ### 联系方式
 - 办公室：复旦大学枫林校区交叉二号楼 D2008 
@@ -46,5 +43,4 @@
 > 创建于 2021 年 11 月 24 日
 
 
-
-> 更新于 2021 年 11 月 24 日
+> 更新于 2022 年 2 月 5 日

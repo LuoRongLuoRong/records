@@ -1,5 +1,7 @@
 # git 规范
 
+## commit
+
 分支：master分支，每个任务一个分支（注意.gitignore）
 
 - fix：修复了bug
@@ -9,6 +11,35 @@
 - perf：性能优化，提高性能的代码更改
 - test：添加或修改代码测试
 - chore：对构建流程或辅助工具和依赖库（如文档生成等）的更改
+
+
+## add
+
+```shell
+git rm -r --cached [被回收的文件]
+```
+
+## branch
+
+```shell
+# 切换到旧分支
+git checkout oldBranch
+
+# 创建并切换至新分支
+git checkout -b luorong 
+
+# 更新分支代码并提交
+git add *
+git commit -m "init newBranch"
+git push origin newBranch
+
+# 查看所有分支
+git branch -a
+
+# 查看当前使用分支（结果列表前面*号，代表当前使用的分支)
+git branch
+```
+
 
 
 > CREATED on 23th November, 2021

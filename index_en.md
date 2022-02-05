@@ -10,28 +10,31 @@ Expected contents are as follows:
 
 - Algorithm and Mathematics: programming fundamental
 - Programming Handbook: utilitarian records 
-  - [Command](https://luorongluorong.github.io/blogs/programming_handbook/command)
-  - [Git](https://luorongluorong.github.io/blogs/programming_handbook/git)
-
+  - [Command](https://luorongluorong.github.io/blogs/programming_handbook/command) *only_cn*
+  - [Git](https://luorongluorong.github.io/blogs/programming_handbook/git) *only_cn*
 - Understanding Computer: the academic theory and physical construction of computer
 - Conceptions and Reflections: thoughts about study and work, life and death
 - Papers: basic reading of a master student
 - Technology: basic technology that a programmer has to know
+- Tools: some useful tools I used in my daily work
+  - [Antlr](https://luorongluorong.github.io/blogs/tools/antlr_cn.md) *only_cn*
+
 - Courses: 
   - Data Mining (Fall, 2021): instructed by [Prof.Yun Xiong](https://datascience.fudan.edu.cn/e1/61/c13398a123233/page.htm)
-    - [Association Analysis](https://luorongluorong.github.io/blogs/courses/data_mining/association_analysis)
-      - [Apriori Algorithm](https://luorongluorong.github.io/blogs/courses/data_mining/apriori_algorithm)
-      - [FP-Growth Algorithm](https://luorongluorong.github.io/blogs/courses/data_mining/fg_growth_algorithm)
+    - [Association Analysis](https://luorongluorong.github.io/blogs/courses/data_mining/association_analysis) *only_cn*
+      - [Apriori Algorithm](https://luorongluorong.github.io/blogs/courses/data_mining/apriori_algorithm) *only_cn*
+      - [FP-Growth Algorithm](https://luorongluorong.github.io/blogs/courses/data_mining/fp_growth_algorithm) *only_cn*
   - Knowledge Graph (Fall, 2021): instructed by [Prof.Yanghua Xiao](https://cs.fudan.edu.cn/3e/dc/c25921a278236/page.htm)
   - Advanced Software Engineering (Fall, 2021): micro-services, instructed by [Prof.Xin Peng](https://cspengxin.github.io/)
 - Literature and History: personal interest
 - English: personal interest
-  - [Monthly Abbreviation](https://luorongluorong.github.io/blogs/english/month_abbreviation) *only_cn*
+  - [Month Abbreviation](https://luorongluorong.github.io/blogs/english/month_abbreviation) *only_cn*
 - Certificates: personal interest
 - Repeats: speeches of outstanding people 
 - Others: anything else, including gossips, jests and daily life etc.
   - [Work Reports](https://luorongluorong.github.io/blogs/others/work_reports) *only_cn*
   - [Prt Sc Key](https://luorongluorong.github.io/blogs/others/prt_sc_key_cn) *only_cn*
+  - [Annual Flags 2020](https://luorongluorong.github.io/blogs/others/annual_flags_2020_cn) *only_cn*
 
 ### Projects
 
@@ -51,6 +54,7 @@ Software Engineering, School of Software
 - 2018 Scholarship of Academic Excellence, Fudan University
 - 2019 Scholarship of Academic Excellence, Fudan University
 - 2020 Scholarship of Academic Excellence, Fudan University
+- 2021 Scholarship of Academic Excellence, Fudan University
 
 ### Contact Me
 - Office: D2008, No.2 Interdisciplinary Research Building, Fenglin Campus, Fudan University
@@ -62,5 +66,4 @@ Software Engineering, School of Software
 > CREATED on 23rd November, 2021
 
 
-
-> UPDATED on 1st December, 2021
+> UPDATED on 2nd December, 2021

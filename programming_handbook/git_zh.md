@@ -40,6 +40,16 @@ git branch -a
 git branch
 ```
 
+## 更新 commit 的信息
+
+经常 commit 错误信息。如何修改？分为如下三种情况：
+
+1. 刚刚 commit，还没有 push，使用 git commit --amend;
+2. 刚刚push，要修改最近一个push的commit信息，使用git commit --amend；
+3. 修改历史push的commit信息，使用git rebase -i HEAD~n【其中的n为记录数】，配合2中的命令
+
+
+
 
 
 > CREATED on 23th November, 2021

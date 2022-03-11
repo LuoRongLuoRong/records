@@ -4,7 +4,8 @@ Here are LuoRong's blogs!
 
 I will record here what I have learned from my study and work in the Software Engineering Laboratory at School of Computer Science and Technology in Fudan University in three years. 
 
-I am a Master Student. Recently I am interested in software analysis due to my current work.
+I am a Master Student. Recently I am interested in software analysis due to my current work (autumn in 2021).
+But now (spring in 2022), I have not found my key study target. What I am doing is to prepare for future work by helping my leader do some trivial things.  I will try my best!
 
 #### Expected contents are as follows:
 

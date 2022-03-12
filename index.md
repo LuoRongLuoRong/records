@@ -18,6 +18,7 @@ Expected contents are as follows:
 - Technology: basic technology that a programmer has to know
 - Tools: some useful tools I used in my daily work
   - [Antlr](https://luorongluorong.github.io/records/tools/antlr_zh.md) *only_zh*
+  - [Vue3 and ElementPlus](https://luorongluorong.github.io/records/tools/vue3_elementplus.md) *only_zh*
 
 - Courses: 
   - Data Mining (Fall, 2021): instructed by [Prof.Yun Xiong](https://datascience.fudan.edu.cn/e1/61/c13398a123233/page.htm)

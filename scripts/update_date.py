@@ -70,9 +70,5 @@ if __name__ == "__main__":
     # 获取项目根目录
     root_path = os.path.abspath(os.path.dirname(par_path) + os.path.sep + ".")
     
-    # getFiles(root_path, "")
-    # getFileType("a.txt")
-    # updateDate(par_path + os.path.sep + "README.md")
-    # updateDate(par_path + os.path.sep + "testcreated.txt")
-    # updateDate(par_path + os.path.sep + "testupdate.txt")
-    updateDate(par_path + os.path.sep + "testupdate2.txt")
+    getFiles(root_path, "")
+    

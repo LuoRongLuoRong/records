@@ -4,6 +4,7 @@
 
 - [screen](https://linuxize.com/post/how-to-use-linux-screen/)
   - 新建并进入：`screen`
+  - 进入已经建好的 screen：`screen -r session_name`
   - 查看：`screen -ls`
   - 新建、命名并进入：`screen -S session_name`
     - `Ctrl+a` `c` Create a new window (with shell).
